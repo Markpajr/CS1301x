@@ -1,2 +1,2 @@
 # CS1301x
-Houses files related to CS1301x taken on edX
+This repository hosts my jupyter notebook for the CS1301x course taken on EdX. This includes small notes taken throughout the course, and my solutions to the various practice problems in python.
